@@ -11,3 +11,12 @@ body {
 	height: 100%;
 	margin: 0;
 }
+
+a {
+	color: hsl(0 64% 48%);
+	transition: all 0.2s;
+
+	&:hover {
+		color: hsl(0deg 59.42% 40.59%);
+	}
+}

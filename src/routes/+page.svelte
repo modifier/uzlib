@@ -8,18 +8,30 @@
 
 	<p>
 		Собираю советские книги про Узбекистан в цифровом формате. Если у вас есть книги, которых нет в этой коллекции,
-		прошу отправлять мне в телеграм <a href="https://t.me/modifier">@modifier</a>.
+		прошу отправлять мне в телеграм <a href="https://t.me/modifier" target="_blank">@modifier</a>.
+	</p>
+	<p>
+		Тут &mdash; только нехудожка. Художественную литературу можно найти на сайте <a href="https://www.ziyouz.uz/ru/" target="_blank">ziyouz.uz</a>.
 	</p>
 	<section>
 		{#each Object.entries(books) as [filename, book]}
 			<Book {filename} {book} />
 		{/each}
 	</section>
+	<footer>
+		<p>
+			2023. Сделано в Ташкенте.
+		</p>
+		<p>
+			Исходный код опубликован на <a href="https://github.com/modifier/uzlib" target="_blank">GitHub</a>.
+		</p>
+	</footer>
 </main>
 
 <style lang="scss">
 	main {
-		max-width: 700px;
+		max-width: 44rem;
+		padding: 0 1rem;
 		margin: 1rem auto;
 	}
 
