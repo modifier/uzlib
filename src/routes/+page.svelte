@@ -6,10 +6,8 @@
 <main>
 	<h1>Книги про Узбекистан</h1>
 
-	<p>
-		Собираю советские книги про Узбекистан в цифровом формате. Если у вас есть книги, которых нет в этой коллекции,
-		прошу отправлять мне в телеграм <a href="https://t.me/modifier" target="_blank">@modifier</a>.
-	</p>
+	<p>Советские книги про Узбекистан в цифровом формате.</p>
+	<p>Присылайте новые книги в телеграм <a href="https://t.me/modifier" target="_blank">@modifier</a>.</p>
 	<p>
 		Тут &mdash; только нехудожка. Художественную литературу можно найти на сайте <a href="https://www.ziyouz.uz/ru/" target="_blank">ziyouz.uz</a>.
 	</p>
@@ -40,6 +38,7 @@
 		margin: 0 0 0.5rem;
 		font-weight: 700;
 		font-size: 2rem;
+		text-align: center;
 	}
 
 	p {
