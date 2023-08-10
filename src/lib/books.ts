@@ -124,6 +124,12 @@ export const books: Books = {
 		year: 1951,
 		size: '13 МБ'
 	},
+	'1953-masson-arhangeran': {
+		title: 'Архангеран. Археолого-топографический очерк',
+		author: 'М. Е. Массон',
+		year: 1953,
+		size: '18 МБ'
+	},
 	'1957-rempel-panjara': {
 		title: 'Панджара',
 		author: 'Л. Ремпель',
@@ -141,6 +147,12 @@ export const books: Books = {
 		author: 'Б. А. Ахмедов',
 		year: 1965,
 		size: '8 МБ'
+	},
+	'1966-masson-strana-tysachi-gorodov': {
+		title: 'Страна тысячи городов',
+		author: 'М. Е. Массон',
+		year: 1966,
+		size: '14 МБ'
 	},
 	'1966-arch-295': {
 		title: 'Археология Средней Азии. Выпуск 295',
@@ -160,6 +172,12 @@ export const books: Books = {
 		year: 1967,
 		size: '4 МБ'
 	},
+	'1978-rempel-middle-east-art': {
+		title: 'Искусство среднего востока. Избранные труды по истории и теории искусств',
+		author: 'Л. И. Ремпель',
+		year: 1978,
+		size: '27 МБ'
+	},
 	'1984-lunina-south-sogd': {
 		title: 'Города южного Согда в VIII-XII вв.',
 		author: 'С. Б. Лунина',
@@ -167,7 +185,7 @@ export const books: Books = {
 		size: '23 МБ'
 	},
 	'1984-mahmudov-salihov-uzbek-cuisine': {
-		title: 'Города южного Согда в VIII-XII вв.',
+		title: 'Блюда узбекской кухни',
 		author: 'К. М. Махмудов, Ш. Г. Салихов',
 		year: 1984,
 		size: '38 МБ'
