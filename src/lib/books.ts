@@ -106,6 +106,12 @@ export const books: Books = {
 		year: 1912,
 		size: '4 МБ'
 	},
+	'1913-adburrauf-rasskazy-indijskogo-puteshestvennika': {
+		title: 'Рассказы индийского путешественника (Бухара, как она есть)',
+		author: 'Фитрат Абд-ур-Рауф',
+		year: 1913,
+		size: '5 МБ'
+	},
 	'1941-masson-ulugbek': {
 		title: 'Обсерватория Улугбека',
 		author: 'М. Е. Массон',
