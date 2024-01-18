@@ -112,6 +112,12 @@ export const books: Books = {
 		year: 1913,
 		size: '5 МБ'
 	},
+	'1925-brodsky-ves-tashkent': {
+		title: 'Весь Ташкент на 1925 год. Адресная и справочная книга',
+		author: 'Комитет Ташкентской Биржи Труда',
+		year: 1925,
+		size: '17 МБ'
+	},
 	'1941-masson-ulugbek': {
 		title: 'Обсерватория Улугбека',
 		author: 'М. Е. Массон',
@@ -141,6 +147,12 @@ export const books: Books = {
 		author: 'Л. Ремпель',
 		year: 1957,
 		size: '18 МБ'
+	},
+	'1957-tashkent': {
+		title: 'Ташкент. Краткий справочник-путеводитель',
+		author: 'Государственное издательство Узбекской ССР',
+		year: 1957,
+		size: '21 МБ'
 	},
 	'1961-abdullaev-khorezm-govory': {
 		title: 'Хорезмские говоры узбекского языка',
