@@ -3,6 +3,7 @@ export type Book = {
 	author: string;
 	year: number;
 	size: string;
+	source?: string;
 };
 
 export type Books = {
@@ -196,6 +197,13 @@ export const books: Books = {
 		year: 1978,
 		size: '27 МБ'
 	},
+	'1979-kuzmichev-greening': {
+		title: 'Озеленение городов и сёл Узбекистана',
+		author: 'И. Кузьмичев, В. Печеницын',
+		source: "<a href='https://sreda.uz/rubriki/bio/kniga-ozelenenie-gorodov-i-sel-uzbekistana-dostupna-v-internete/'>SREDA.UZ</a>",
+		year: 1979,
+		size: '19 МБ'
+	},
 	'1984-lunina-south-sogd': {
 		title: 'Города южного Согда в VIII-XII вв.',
 		author: 'С. Б. Лунина',
@@ -225,6 +233,12 @@ export const books: Books = {
 		author: 'Т. Ф. Кадырова',
 		year: 1987,
 		size: '50 МБ'
+	},
+	'1987-sagdullaev-estates': {
+		title: 'Усадьбы древней Бактрии',
+		author: 'А. С. Сагдуллаев',
+		year: 1987,
+		size: '6 МБ'
 	},
 	'1990-kissen-uzbek': {
 		title: 'Узбекский язык для взрослых. Самоучитель',

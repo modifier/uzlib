@@ -15,7 +15,7 @@
 	</section>
 	<footer>
 		<p>
-			2023. Сделано в Ташкенте.
+			2023–2024. Сделано в Ташкенте.
 		</p>
 		<p>
 			Исходный код опубликован на <a href="https://github.com/modifier/uzlib" target="_blank">GitHub</a>.

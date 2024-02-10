@@ -11,6 +11,9 @@
 		<h2>{book.title}</h2>
 		<p>Автор: {book.author}</p>
 		<p>Год: {book.year}</p>
+		{#if book.source}
+			<p>Источник: {@html book.source}</p>
+		{/if}
 		<a href="/books/{filename}.pdf">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
 				<path
