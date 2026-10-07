@@ -71,6 +71,12 @@ export const books: Books = {
 		year: 1897,
 		size: '13 МБ'
 	},
+	'1899-abu-tahir-samariya': {
+		title: 'Самария. Описание древностей и мусульманских святынь Самарканда',
+		author: 'Абу Тахир Ходжа (перевод В. Л. Вяткина)',
+		year: 1899,
+		size: '8 МБ'
+	},
 	'1900-shkapskiy-khiva-vodnoe-khozyaystvo': {
 		title: 'Как хивинцы ведут полевое хозяйство на своих безводных землях',
 		author: 'О. Шкапский',
@@ -125,6 +131,12 @@ export const books: Books = {
 		year: 1941,
 		size: '16 МБ'
 	},
+	'1944-pisarchik-kermine': {
+		title: 'Памятники Кермине',
+		author: 'А. Писарчик',
+		year: 1944,
+		size: '6 МБ'
+	},
 	'1949-tashkent-arhitektura-gorodov-sssr': {
 		title: 'Ташкент. Архитектура городов СССР',
 		author: 'С. Полупанов, Ю. Яралов',
@@ -142,6 +154,12 @@ export const books: Books = {
 		author: 'М. Е. Массон',
 		year: 1953,
 		size: '18 МБ'
+	},
+	'1956-nilsen-bukhara-architecture': {
+		title: 'Монументальная архитектура Бухарского оазиса XI-XII вв. К вопросу о возникновении средневековой архитектуры в Средней Азии',
+		author: 'В. А. Нильсен',
+		year: 1956,
+		size: '19 МБ'
 	},
 	'1957-rempel-panjara': {
 		title: 'Панджара',
